@@ -1,7 +1,7 @@
 # Pizza-Ordering-Application
 UI/UX design of a pizza ordering application created in Figma.
 ---
-Link: https://www.figma.com/design/E7KGVmABG3vYRczeg33oIz/UIU-PizzaApp?node-id=7-9&t=Xwz99guWfVFw6cT9-1
+Link: https://www.figma.com/proto/E7KGVmABG3vYRczeg33oIz/UIU-PizzaApp?node-id=7-9&starting-point-node-id=7%3A6&t=KNI8pIVhsc5VXXMY-1
 --
 ## 1. Opis projekta
 
